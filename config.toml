@@ -1,0 +1,7 @@
+baseURL = "/"
+themesDir = "themes"
+theme = "hugo-serif-theme"
+languageCode = "en-us"
+title = "Hugo Serif Theme"
+
+
