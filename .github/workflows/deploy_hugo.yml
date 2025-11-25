@@ -1,39 +1,32 @@
 name: Déploiement Hugo vers GitHub Pages
 
 on:
-  # Déclenche le workflow à chaque push sur la branche 'main'
   push:
     branches: ["main"]
-  
-  # Permet d'exécuter ce workflow manuellement depuis l'onglet Actions
   workflow_dispatch:
 
-# Permet aux Actions de lire le contenu du dépôt et de déployer vers Pages
 permissions:
   contents: read
   pages: write
   id-token: write
 
-# Un seul build est permis à la fois (pour éviter les conflits)
 concurrency:
   cancel-in-progress: true
   group: pages
 
 jobs:
-  # Le job de construction
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout du dépôt
+      - name: Checkout du dépôt (avec sous-modules récursifs)
         uses: actions/checkout@v4
         with:
-          # Permet l'historique complet pour les liens (requis par certains thèmes Hugo)
-          submodules: true  
+          # FIX: Cloner récursivement les sous-modules pour inclure le thème Hugo
+          submodules: recursive 
           fetch-depth: 0    
 
       - name: Configuration de l'environnement de build Hugo
         env:
-          # Variables d'environnement tirées de votre netlify.toml
           HUGO_VERSION: '0.132.0'
           HUGO_THEME: '../..'
           HUGO_BASEURL: '/'
@@ -46,11 +39,8 @@ jobs:
         uses: peaceiris/actions-hugo@v3
         with:
           hugo-version: ${{ env.HUGO_VERSION }}
-          # Définir le cache si vous utilisez un module ou des thèmes externes
-          # extended: true # Décommenter si vous utilisez Hugo Extended (souvent nécessaire pour Tailwind ou Sass)
 
-      - name: Construction du site avec Hugo (Similaire à 'cd exampleSite && hugo --gc')
-        # La commande "cd exampleSite && hugo --gc" est exécutée.
+      - name: Construction du site avec Hugo (cd exampleSite && hugo --gc)
         run: cd exampleSite && hugo --gc
 
       - name: Configuration de l'environnement de déploiement des Pages
@@ -59,10 +49,8 @@ jobs:
       - name: Uploader les artefacts de construction (Le dossier 'public')
         uses: actions/upload-pages-artifact@v3
         with:
-          # Dossier de sortie tiré de votre netlify.toml (publish = "exampleSite/public")
           path: 'exampleSite/public' 
 
-  # Le job de déploiement (dépend de la réussite du build)
   deploy:
     environment:
       name: github-pages
