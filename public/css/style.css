@@ -13267,18 +13267,18 @@ ol {
       font-weight: 500; }
 
 .about-content blockquote {
-  background: linear-gradient(135deg, #f1949b 0%, #ec6670 100%);
+  background: linear-gradient(135deg, #fdeeef 0%, #f7c1c5 100%);
   border-left: 4px solid #E63946;
   padding: 2rem;
   border-radius: 8px;
   margin: 2rem 0;
   font-style: italic;
   font-size: 1.2rem;
-  color: #E63946; }
+  color: #a41520; }
   .about-content blockquote::before {
     content: '"';
     font-size: 3rem;
-    color: #E63946;
+    color: #a41520;
     opacity: 0.3; }
 
 .intro {
