@@ -1,0 +1,10 @@
+[build]
+  # L'output du site se trouve maintenant directement à la racine : public
+  publish = "public"
+  # La commande Hugo peut être lancée directement depuis la racine
+  command = "hugo --gc --minify"
+
+[build.environment]
+  # Maintenez la version de Hugo que vous souhaitez utiliser
+  HUGO_VERSION = "0.132.0"
+  HUGO_BASEURL = "/"
