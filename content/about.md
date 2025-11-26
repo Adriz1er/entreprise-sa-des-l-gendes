@@ -1,52 +1,65 @@
 ---
-title: 'About'
-date: 2018-02-22T17:01:34+07:00
+title: 'À propos de Swisstch Tech'
+date: 2025-01-01T00:00:00+01:00
 ---
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+# Notre Histoire & Notre Vision
 
-![About Us](/images/smartworks-coworking-cW4lLTavU80-unsplash.jpg)
+Fondée à Genève/Bellevue, **Swisstch Tech** s'est imposée comme un acteur de référence dans les solutions technologiques pour environnements critiques, avec une expertise particulière dans le secteur hospitalier.
 
-## Ne verba patulosque numen vix libet
+## Notre Mission
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+Fournir des solutions technologiques robustes, sécurisées et innovantes qui permettent à nos clients de se concentrer sur leur cœur de métier, en toute sérénité.
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
+## Notre Implantation
 
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
+- **Siège Social** : Genève/Bellevue, Suisse - Au cœur de l'innovation européenne
+- **Présence** : 30 collaborateurs experts répartis entre la Suisse et la France
+- **Zone d'Intervention** : Suisse romande, France et international pour les projets spécifiques
 
-## Postquam tamen
+## Nos Valeurs
 
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
+### 🔧 Excellence Technique
+Une expertise pointue dans chaque domaine technologique, maintenue à jour through continuous learning
 
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
+### 🛡️ Sécurité Intrinsèque
+La sécurité n'est pas une option mais une foundation dans toutes nos solutions
 
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
+### 🤝 Proximité Client
+Relation de partenariat et accompagnement personnalisé pour chaque client
 
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
+### 💡 Innovation Pragmatique
+Solutions modernes qui répondent à des besoins concrets et mesurables
+
+### 🌍 Responsabilité
+Engagement envers la qualité, la fiabilité et l'impact positif de nos solutions
+
+## Notre Équipe
+
+Une équipe de **30 professionnels** passionnés par la technologie et dévoués à l'excellence :
+
+- **Développeurs** : Experts en applications sur mesure et intégrations complexes
+- **Ingénieurs Réseau** : Spécialistes en infrastructure et haute disponibilité
+- **Consultants Cybersécurité** : Certifiés en sécurité offensive et défensive
+- **Experts Sectoriels** : Connaissance approfondie du médical et des environnements critiques
+- **Support Technique** : Équipes dédiées au service client et à la maintenance
+
+## Notre Différenciation
+
+Ce qui nous distingue dans l'écosystème technologique :
+
+1. **Double Expertise** : Technique pointue ET compréhension métier approfondie
+2. **Approche Holistique** : De la stratégie à l'implémentation et la maintenance
+3. **Flexibilité** : Solutions adaptables aux spécificités de chaque client
+4. **Réactivité** : Support proactif et réponse aux incidents rapide
+5. **Vision Long Terme** : Partenariat durable plutôt que relation client-fournisseur
+
+## Chiffres Clés
+
+- 🎯 **30+** collaborateurs experts
+- 🏥 **50+** projets dans le secteur hospitalier
+- 🔒 **100%** de conformité RGPD pour nos clients
+- ⏰ **24/7** support technique disponible
+- 🌐 **2** pays d'implantation (Suisse & France)
+
+*Rejoignez les nombreuses entreprises et établissements qui nous font confiance pour leurs défis technologiques les plus critiques.*

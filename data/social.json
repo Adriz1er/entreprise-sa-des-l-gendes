@@ -1,12 +1,12 @@
 [
     {
-        "name": "Github",
-        "link": "https://github.com/zerostaticthemes/hugo-serif-theme",
+        "name": "LinkedIn",
+        "link": "https://linkedin.com/company/swisstch-tech",
         "image": "images/social/github.svg"
     },
     {
         "name": "Twitter",
-        "link": "https://twitter.com/zerostaticio",
+        "link": "https://twitter.com/swisstchtech",
         "image": "images/social/twitter.svg"
     }
 ]

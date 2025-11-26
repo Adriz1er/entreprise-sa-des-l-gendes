@@ -1,6 +1,6 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = 'https://swisstch.tech/'
+languageCode = 'fr-fr'
+title = 'Swisstch Tech - Solutions Technologiques Avancées'
 theme = "hugo-serif-theme"
 
 [module]
@@ -20,11 +20,11 @@ theme = "hugo-serif-theme"
     show_services_button = false # show / hide the "view all services" button
 
   [params.logo]
-    mobile = "images/logo/logo-mobile.svg"
-    mobile_height = "36px"
-    desktop = "images/logo/logo.svg"
-    desktop_height = "36px"
-    alt = "Serif - A Hugo Business Theme"
+    mobile = "logo.png"
+    mobile_height = "40px"
+    desktop = "logo.png"
+    desktop_height = "50px"
+    alt = "Swisstch Tech - Solutions Technologiques"
 
   [params.fonts]
     # sets the google font link in layouts/partials/google-fonts.html
@@ -33,16 +33,16 @@ theme = "hugo-serif-theme"
     base = "Source Sans Pro"
 
   [params.colors]
-    primary = "#f24088"
+    primary = "#E63946"
     black = "#2f2f41"
     white = "#ffffff"
-    white_offset = "#f6f7ff"
-    grey = "#5C5A5A"
+    white_offset = "#f8f9fa"
+    grey = "#6c757d"
 
   [params.seo]
-    meta_twitter_site = "@zerostaticio"
-    meta_twitter_creator = "@zerostaticio"
-    meta_og_image = "https://www.zerostatic.io/theme/hugo-serif/hugo-serif-screenshot.png"
+    meta_twitter_site = "@swisstchtech"
+    meta_twitter_creator = "@swisstchtech"
+    meta_og_image = "https://swisstch.tech/images/og-image.jpg"
 
   [params.services]
     summary_truncate = 120 # How many characters to include in the summary of the services before truncating
@@ -51,7 +51,7 @@ theme = "hugo-serif-theme"
     summary_large_truncate = 120 # How many characters to include in the summary of the team bios (large layout) before truncating
 
   [params.footer]
-    copyright_text = 'Free Hugo theme by <a class="zerostatic" href="https://www.zerostatic.io">www.zerostatic.io</a>'
+    copyright_text = '© 2025 Swisstch Tech SA - Genève/Bellevue, Suisse. Tous droits réservés.'
 
 [menu]
   # Main Menu
@@ -61,12 +61,12 @@ theme = "hugo-serif-theme"
     weight = 1
 
   [[menu.main]]
-    name = "Team"
+    name = "Équipe"
     url = "/team/"
     weight = 2
 
   [[menu.main]]
-    name = "About"
+    name = "À propos"
     url = "/about/"
     weight = 3
 
@@ -77,7 +77,7 @@ theme = "hugo-serif-theme"
 
   # Footer Menu
   [[menu.footer]]
-    name = "Home"
+    name = "Accueil"
     url = "/"
     weight = 1
 

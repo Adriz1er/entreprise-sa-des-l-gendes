@@ -1,11 +1,15 @@
 ---
-title: 'Services'
-description: 'We offer a range of services to help your business'
+title: 'Services Techniques'
+description: 'Expertise IT complète pour environnements critiques - Développement, Infrastructure, Cybersécurité, Solutions Hospitalières, Support et Conseil'
 intro_image: "images/illustrations/reading.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-# Services that grow with your business
+# Services Techniques Spécialisés
 
-Aliquam erat volutpat. Morbi nisl tortor, dignissim eget efficitur vel, auctor non felis. Fusce quis viverra mi. Aenean quis massa pretium, ullamcorper nisi eget, hendrerit odio.
+Swisstch Tech propose une gamme complète de services technologiques conçus pour répondre aux exigences des environnements critiques et du secteur hospitalier.
+
+## Nos Domaines d'Expertise
+
+Découvrez nos six piliers technologiques qui assurent la performance, la sécurité et la continuité de vos systèmes d'information.

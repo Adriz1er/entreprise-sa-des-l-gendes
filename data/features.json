@@ -1,17 +1,17 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients recieve an obligation free consultation.",
+    "title": "Expertise Technique Pointue",
+    "description": "30 collaborateurs experts en IT, réseau, cybersécurité et solutions hospitalières",
     "image": "images/features/noun_branding_1885335.svg"
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Support Technique 24/7",
+    "description": "Assistance continue pour vos environnements critiques avec garantie de réponse rapide",
     "image": "images/features/noun_The Process_1885341.svg"
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Conformité RGPD/ANSSI",
+    "description": "Solutions sécurisées respectant les réglementations les plus strictes de protection des données",
     "image": "images/features/noun_3d modeling_1885342.svg"
   }
 ]

@@ -1,16 +1,60 @@
 ---
-title: 'Contact'
-date: 2018-02-22T17:01:34+07:00
+title: 'Contactez-nous'
+date: 2025-01-01T00:00:00+01:00
 layout: contact
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
+# Contactez Swisstch Tech
 
-| Day       | Opening Hours   |
-| --------- | --------------- |
-| Tuesday   | 8:30am - 5:00pm |
-| Wednesday | 8:30am - 5:00pm |
-| Thursday  | 8:30am - 5:00pm |
-| Friday    | 8:30am - 5:00pm |
-| Saturday  | 10:am - 4:00pm  |
-| Sunday    | Closed          |
+Notre équipe est à votre disposition pour discuter de vos projets technologiques et trouver les solutions adaptées à vos besoins.
+
+## Coordonnées
+
+**Swisstch Tech SA**  
+Route de Suisse 123  
+1293 Bellevue/Genève  
+Suisse
+
+### 📞 Téléphone
++41 22 123 45 67
+
+### 📧 Email
+contact@swisstch.tech
+
+### 🌐 Site Web
+https://swisstch.tech
+
+## Horaires d'Ouverture
+
+| Jour       | Horaires d'Ouverture      |
+|------------|---------------------------|
+| Lundi      | 8h30 - 18h00              |
+| Mardi      | 8h30 - 18h00              |
+| Mercredi   | 8h30 - 18h00              |
+| Jeudi      | 8h30 - 18h00              |
+| Vendredi   | 8h30 - 17h00              |
+| Samedi     | Sur rendez-vous           |
+| Dimanche   | Fermé                     |
+
+*Pour les urgences techniques, notre support 24/7 est disponible en dehors de ces horaires.*
+
+## Zones d'Intervention
+
+- **Suisse** : Genève, Vaud, Valais, et toute la Suisse romande
+- **France** : Région Auvergne-Rhône-Alpes et Grand Est
+- **International** : Projets spécifiques en Europe et worldwide
+
+## Prendre Rendez-vous
+
+Nous recommandons de prendre rendez-vous pour :
+- 🎯 Audit initial de vos systèmes
+- 💡 Présentation de solutions spécifiques
+- 🔧 Démonstrations techniques
+- 📋 Réunions stratégiques
+
+*Notre équipe se déplace également sur site pour des analyses approfondies et des installations.*
+
+---
+
+**Prêt à transformer vos défis technologiques en opportunités ?**  
+Contactez-nous dès aujourd'hui pour une consultation sans engagement.
