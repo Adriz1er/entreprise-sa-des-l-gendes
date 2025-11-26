@@ -1,6 +1,6 @@
 ---
 title: 'Cybersécurité Avancée'
-description: 'Audits de sécurité, implémentation firewalls/IAM/MFA/EDR, conformité RGPD/ANSSI et tests d\'intrusion pour protéger vos actifs critiques'
+description: "Audits de sécurité, implémentation firewalls/IAM/MFA/EDR, conformité RGPD/ANSSI et tests d'intrusion pour protéger vos actifs critiques"
 weight: 3
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: 'Développement d\'Applications sur Mesure'
-description: 'Applications personnalisées, interfaces sécurisées et solutions d\'automatisation pour optimiser vos processus métiers'
+title: "Développement d'Applications sur Mesure"
+description: "Applications personnalisées, interfaces sécurisées et solutions d'automatisation pour optimiser vos processus métiers"
 weight: 1
 ---
 

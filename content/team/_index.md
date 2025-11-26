@@ -1,6 +1,6 @@
 ---
 title: 'Notre Équipe'
-description: 'Découvrez notre équipe de 30 experts techniques dédiés à l\'excellence et à l\'innovation technologique'
+description: "Découvrez notre équipe de 30 experts techniques dédiés à l'excellence et à l'innovation technologique"
 intro_image: "images/illustrations/team.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
