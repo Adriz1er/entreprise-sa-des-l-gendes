@@ -1,0 +1,63 @@
+name: Déploiement Hugo vers GitHub Pages
+
+on:
+  push:
+    branches: ["main"]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  cancel-in-progress: true
+  group: pages
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout du dépôt (avec sous-modules récursifs)
+        uses: actions/checkout@v4
+        with:
+          # FIX: Cloner récursivement les sous-modules pour inclure le thème Hugo
+          submodules: recursive 
+          fetch-depth: 0    
+
+      - name: Configuration de l'environnement de build Hugo
+        env:
+          HUGO_VERSION: '0.132.0'
+          HUGO_THEME: '../..'
+          HUGO_BASEURL: '/'
+        run: |
+          echo "HUGO_VERSION=${HUGO_VERSION}" >> $GITHUB_ENV
+          echo "HUGO_THEME=${HUGO_THEME}" >> $GITHUB_ENV
+          echo "HUGO_BASEURL=${HUGO_BASEURL}" >> $GITHUB_ENV
+
+      - name: Configuration de Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: ${{ env.HUGO_VERSION }}
+
+      - name: Construction du site avec Hugo (cd exampleSite && hugo --gc)
+        run: cd exampleSite && hugo --gc
+
+      - name: Configuration de l'environnement de déploiement des Pages
+        uses: actions/configure-pages@v5
+
+      - name: Uploader les artefacts de construction (Le dossier 'public')
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: 'exampleSite/public' 
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Déploiement vers GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
