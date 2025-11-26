@@ -1,1 +1,38 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>https://swisstch.tech/services/developpement-applications/</loc></url><url><loc>https://swisstch.tech/services/infrastructure-reseau/</loc></url><url><loc>https://swisstch.tech/services/cybersecurite/</loc></url><url><loc>https://swisstch.tech/services/logiciels-hospitaliers/</loc></url><url><loc>https://swisstch.tech/services/support-technique/</loc></url><url><loc>https://swisstch.tech/services/conseil-equipements/</loc></url><url><loc>https://swisstch.tech/team/placeholder-profiles/</loc></url><url><loc>https://swisstch.tech/about/</loc><lastmod>2025-01-01T00:00:00+01:00</lastmod></url><url><loc>https://swisstch.tech/contact/</loc><lastmod>2025-01-01T00:00:00+01:00</lastmod></url><url><loc>https://swisstch.tech/</loc><lastmod>2025-01-01T00:00:00+01:00</lastmod></url><url><loc>https://swisstch.tech/categories/</loc></url><url><loc>https://swisstch.tech/team/</loc></url><url><loc>https://swisstch.tech/404/</loc></url><url><loc>https://swisstch.tech/services/</loc></url><url><loc>https://swisstch.tech/tags/</loc></url></urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/services/developpement-applications/</loc>
+  </url><url>
+    <loc>http://localhost:1313/services/infrastructure-reseau/</loc>
+  </url><url>
+    <loc>http://localhost:1313/services/cybersecurite/</loc>
+  </url><url>
+    <loc>http://localhost:1313/services/logiciels-hospitaliers/</loc>
+  </url><url>
+    <loc>http://localhost:1313/services/support-technique/</loc>
+  </url><url>
+    <loc>http://localhost:1313/services/conseil-equipements/</loc>
+  </url><url>
+    <loc>http://localhost:1313/team/placeholder-profiles/</loc>
+  </url><url>
+    <loc>http://localhost:1313/about/</loc>
+    <lastmod>2025-01-01T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/contact/</loc>
+    <lastmod>2025-01-01T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-01-01T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/team/</loc>
+  </url><url>
+    <loc>http://localhost:1313/404/</loc>
+  </url><url>
+    <loc>http://localhost:1313/services/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+  </url>
+</urlset>

@@ -13,6 +13,7 @@ theme = "hugo-serif-theme"
   google_analytics_id = ""
   google_tag_manager_id = ""
   favicon = "favicon-32x32.svg"
+  custom_css = ["scss/custom-team.scss"]
 
   [params.homepage]
     sticky_header = true
@@ -20,9 +21,9 @@ theme = "hugo-serif-theme"
     show_services_button = false # show / hide the "view all services" button
 
   [params.logo]
-    mobile = "logo.png"
+    mobile = "images/logo/logo.png"
     mobile_height = "40px"
-    desktop = "logo.png"
+    desktop = "images/logo/logo.png"
     desktop_height = "50px"
     alt = "Swisstch Tech - Solutions Technologiques"
 
@@ -85,3 +86,7 @@ theme = "hugo-serif-theme"
     name = "Contact"
     url = "/contact/"
     weight = 2
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

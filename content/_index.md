@@ -14,23 +14,39 @@ intro_image_hide_on_mobile: true
 
 ## Nos Expertises Clés
 
-### 🖥️ Développement d'Applications sur Mesure
-Applications sécurisées et interfaces personnalisées adaptées à vos processus métiers spécifiques
+<div class="expertise-grid">
 
-### 🌐 Infrastructure Réseau & Serveurs
-Solutions hybrides cloud/on-premise avec supervision 24/7 et haute disponibilité garantie
+<div class="expertise-card">
+<h3>🖥️ Développement d'Applications sur Mesure</h3>
+<p>Applications sécurisées et interfaces personnalisées adaptées à vos processus métiers spécifiques</p>
+</div>
 
-### 🔒 Cybersécurité Avancée
-Audits de sécurité, conformité RGPD/ANSSI, implémentation firewalls, IAM, MFA et EDR
+<div class="expertise-card">
+<h3>🌐 Infrastructure Réseau & Serveurs</h3>
+<p>Solutions hybrides cloud/on-premise avec supervision 24/7 et haute disponibilité garantie</p>
+</div>
 
-### 🏥 Logiciels Hospitaliers
-Applications de gestion patient, portails sécurisés et intégration HL7/API pour le secteur médical
+<div class="expertise-card">
+<h3>🔒 Cybersécurité Avancée</h3>
+<p>Audits de sécurité, conformité RGPD/ANSSI, implémentation firewalls, IAM, MFA et EDR</p>
+</div>
 
-### 📞 Support Technique N1/N2
-Assistance clientèle réactive et gestion complète de vos systèmes informatiques
+<div class="expertise-card">
+<h3>🏥 Logiciels Hospitaliers</h3>
+<p>Applications de gestion patient, portails sécurisés et intégration HL7/API pour le secteur médical</p>
+</div>
 
-### 💡 Conseil en Transformation Digitale
-Accompagnement RSSI/DPO et stratégie digitale pour votre croissance technologique
+<div class="expertise-card">
+<h3>📞 Support Technique N1/N2</h3>
+<p>Assistance clientèle réactive et gestion complète de vos systèmes informatiques</p>
+</div>
+
+<div class="expertise-card">
+<h3>💡 Conseil en Transformation Digitale</h3>
+<p>Accompagnement RSSI/DPO et stratégie digitale pour votre croissance technologique</p>
+</div>
+
+</div>
 
 ---
 

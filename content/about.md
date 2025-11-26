@@ -11,55 +11,66 @@ Fondée à Genève/Bellevue, **Swisstch Tech** s'est imposée comme un acteur de
 
 Fournir des solutions technologiques robustes, sécurisées et innovantes qui permettent à nos clients de se concentrer sur leur cœur de métier, en toute sérénité.
 
-## Notre Implantation
+## Notre Équipe & Implantation
 
-- **Siège Social** : Genève/Bellevue, Suisse - Au cœur de l'innovation européenne
-- **Présence** : 30 collaborateurs experts répartis entre la Suisse et la France
-- **Zone d'Intervention** : Suisse romande, France et international pour les projets spécifiques
+**30 professionnels** passionnés répartis entre la Suisse et la France, avec une présence en Suisse romande, France et international pour les projets spécifiques.
 
-## Nos Valeurs
+## Nos Valeurs Clés
 
-### 🔧 Excellence Technique
-Une expertise pointue dans chaque domaine technologique, maintenue à jour through continuous learning
+<div class="values-grid">
+<div class="value-item">
+<h4>🔧 Excellence Technique</h4>
+<p>Expertise pointue maintenue à jour</p>
+</div>
 
-### 🛡️ Sécurité Intrinsèque
-La sécurité n'est pas une option mais une foundation dans toutes nos solutions
+<div class="value-item">
+<h4>🛡️ Sécurité Intrinsèque</h4>
+<p>La sécurité comme fondation de toutes nos solutions</p>
+</div>
 
-### 🤝 Proximité Client
-Relation de partenariat et accompagnement personnalisé pour chaque client
+<div class="value-item">
+<h4>🤝 Proximité Client</h4>
+<p>Relation de partenariat personnalisée</p>
+</div>
 
-### 💡 Innovation Pragmatique
-Solutions modernes qui répondent à des besoins concrets et mesurables
+<div class="value-item">
+<h4>💡 Innovation Pragmatique</h4>
+<p>Solutions modernes pour besoins concrets</p>
+</div>
 
-### 🌍 Responsabilité
-Engagement envers la qualité, la fiabilité et l'impact positif de nos solutions
-
-## Notre Équipe
-
-Une équipe de **30 professionnels** passionnés par la technologie et dévoués à l'excellence :
-
-- **Développeurs** : Experts en applications sur mesure et intégrations complexes
-- **Ingénieurs Réseau** : Spécialistes en infrastructure et haute disponibilité
-- **Consultants Cybersécurité** : Certifiés en sécurité offensive et défensive
-- **Experts Sectoriels** : Connaissance approfondie du médical et des environnements critiques
-- **Support Technique** : Équipes dédiées au service client et à la maintenance
-
-## Notre Différenciation
-
-Ce qui nous distingue dans l'écosystème technologique :
-
-1. **Double Expertise** : Technique pointue ET compréhension métier approfondie
-2. **Approche Holistique** : De la stratégie à l'implémentation et la maintenance
-3. **Flexibilité** : Solutions adaptables aux spécificités de chaque client
-4. **Réactivité** : Support proactif et réponse aux incidents rapide
-5. **Vision Long Terme** : Partenariat durable plutôt que relation client-fournisseur
+<div class="value-item">
+<h4>🌍 Responsabilité</h4>
+<p>Engagement envers qualité et impact positif</p>
+</div>
+</div>
 
 ## Chiffres Clés
 
-- 🎯 **30+** collaborateurs experts
-- 🏥 **50+** projets dans le secteur hospitalier
-- 🔒 **100%** de conformité RGPD pour nos clients
-- ⏰ **24/7** support technique disponible
-- 🌐 **2** pays d'implantation (Suisse & France)
+<div class="stats-grid">
+<div class="stat-item">
+<div class="stat-number">30+</div>
+<div class="stat-label">collaborateurs experts</div>
+</div>
 
-*Rejoignez les nombreuses entreprises et établissements qui nous font confiance pour leurs défis technologiques les plus critiques.*
+<div class="stat-item">
+<div class="stat-number">50+</div>
+<div class="stat-label">projets hospitaliers</div>
+</div>
+
+<div class="stat-item">
+<div class="stat-number">100%</div>
+<div class="stat-label">conformité RGPD</div>
+</div>
+
+<div class="stat-item">
+<div class="stat-number">24/7</div>
+<div class="stat-label">support technique</div>
+</div>
+
+<div class="stat-item">
+<div class="stat-number">2</div>
+<div class="stat-label">pays d'implantation</div>
+</div>
+</div>
+
+> Rejoignez les nombreuses entreprises et établissements qui nous font confiance pour leurs défis technologiques les plus critiques.
