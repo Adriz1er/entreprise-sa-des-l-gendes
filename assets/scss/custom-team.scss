@@ -145,3 +145,54 @@
     max-width: 100%; /* Pleine largeur sur mobile */
   }
 }
+
+/* Animations AOS personnalisées */
+[data-aos="zoom-in"] {
+  opacity: 0;
+  transform: scale(0.9);
+  transition-property: opacity, transform;
+  transition-duration: 0.5s;
+}
+[data-aos="zoom-in"].aos-animate {
+  opacity: 1;
+  transform: scale(1);
+}
+
+[data-aos="fade-up"] {
+  opacity: 0;
+  transform: translateY(30px);
+  transition-property: opacity, transform;
+  transition-duration: 0.6s;
+}
+[data-aos="fade-up"].aos-animate {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* Effet visuel de progression sous chaque carte */
+.expertise-card {
+  position: relative;
+  overflow: hidden;
+}
+
+.expertise-progress {
+  display: block;
+  height: 6px;
+  width: 100%;
+  background: linear-gradient(90deg, #E63946 70%, #6c757d 100%);
+  border-radius: 3px;
+  margin-top: 16px;
+  animation: progress-bar-in 2s cubic-bezier(0.4, 0, 0.2, 1) forwards;
+  opacity: 0.8;
+}
+@keyframes progress-bar-in {
+  from { width: 0; }
+  to { width: 100%; }
+}
+
+/* Hover ultra-dynamique */
+.expertise-card:hover {
+  box-shadow: 0 12px 30px rgba(230,57,70,0.13), 0 1.5px 6px #E6394618;
+  border-left-color: #E63946;
+  transform: scale(1.03) translateY(-8px);
+}
